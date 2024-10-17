@@ -24,6 +24,19 @@ In short, you can build your own projects using information provided in this rep
 - 1N4007 diode (or equivalent)
 - The rest of the protogen
 
+## Kavex Part's List 
+ESP32: https://www.aliexpress.us/item/3256806150650156.html
+2x 16x16 Neopixel-compatible displays: https://www.aliexpress.us/item/3256805063710566.html
+battery holder: https://www.aliexpress.us/item/3256805831102887.html
+3.3V to 5V logic converter: https://www.aliexpress.us/item/3256805798457379.html
+1N4007 diode: https://www.aliexpress.us/item/3256805817433207.html
+470UF 25V 8*12 Aluminum electrolytic capacitor: https://www.aliexpress.us/item/3256805759406524.html
+5V fans: https://www.aliexpress.us/item/3256803185681643.html
+Dupont Line: https://www.aliexpress.us/item/3256806675662297.html
+M3 304 Stainless Steel Hex Hexagon Socket Screw: https://www.aliexpress.us/item/2255801159169965.html
+3D Printed Parts: https://www.thingiverse.com/thing:6018991
+PLA: https://www.amazon.com/gp/product/B07ZNHF46J/
+
 ![proto](https://user-images.githubusercontent.com/8028882/236701038-a80ce5f3-3012-4528-be68-1b71acf7782d.gif)
 
 ## Diagram
